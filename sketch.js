@@ -17,6 +17,6 @@ function draw() {
 }
 
 // This Redraws the Canvas when resized
-windowResized = function() {
+windowResized = function () {
   resizeCanvas(windowWidth, windowHeight);
 };
